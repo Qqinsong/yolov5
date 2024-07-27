@@ -1,6 +1,5 @@
-"""
-Run a rest API exposing the yolov5s object detection model
-"""
+"""Run a rest API exposing the yolov5s object detection model."""
+
 import argparse
 import io
 
